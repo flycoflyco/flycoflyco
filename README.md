@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flycoflyco&show_icons=true&theme=radical)
+![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=flycoflyco&show_icons=true&theme=radical)
+https://img.shields.io/badge/{dotnet}-{007396}?style={flat-square}&logo={dotnet}&logoColor={white}
