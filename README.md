@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=flycoflyco&show_icons=true&theme=radical)
 ![DotNet](https://img.shields.io/badge/dotnet-007396.svg?&style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/.NET-C%23-007396?style=flat)&nbsp);
+![C#](https://img.shields.io/badge/.NET-C%23-007396?style=flat);
 
